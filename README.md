@@ -1,3 +1,17 @@
+# 💫 Hi 👋, I'm Dushyant
+
+**A passionate Computer Science Student || Aspiring Software Engineer || Full Stack Developer from India**
+
+Email Me 👉 ✉️ ** dushyantgaur2003@gmail.com ** For Collaboration, Projects, or Tech Discussions. 😊
+
+* 🔭 **I’m currently working on:** Full Stack Web Development Projects
+* 🌱 **I’m currently learning:** Full Stack Development, Computer Networking, Data Structures & Algorithms, and English Communication Skills
+* 👯 **I’m looking to collaborate on:** Web Development and Open Source Projects
+* 🤔 **I’m looking for help with:** Building scalable full-stack applications and improving problem-solving skills
+* 💬 **Ask me about:** Web Development, C Programming, Computer Networking, and Tech Learning
+* 📫 **How to reach me:** dushyantgaur2003@gamil.com, 7088054072 **
+* 😄 **Pronouns:** He/Him
+* ⚡ **Fun fact:** I love turning ideas into code and continuously learning new technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaur.fitz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dushyant-gaur-49174137a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Dushyant_gaur_7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dushyantgaur2003@gmail.com) 
